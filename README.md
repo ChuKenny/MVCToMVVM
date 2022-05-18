@@ -1,2 +1,2 @@
 # MVCToMVVM
-UICollectionView waterflow MVV to MVVM compare Demo
+UICollectionView waterflow MVC to MVVM compare Demo
